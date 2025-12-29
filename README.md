@@ -85,7 +85,10 @@ It is observed that even with low capacity prediction error and high R² values,
 
 ---
 ## Output Graphs
-
+https://github.com/foranurag0202/Battery-life-Prediction-RUL-and-determining-SOH-using-ensemble-modeling/blob/main/graphicsResult/Figure_1_final_ou1.png
+![Ensemble Prediction vs Actual Capacity](graphicsResult/Figure_1_final_ou1.png)
+https://github.com/foranurag0202/Battery-life-Prediction-RUL-and-determining-SOH-using-ensemble-modeling/blob/main/graphicsResult/Figure_capacity%20degradation.png
+![Capacity Degradation Curve](graphicsResult/Figure_capacity%20degradation.png)
 
 
 ## Limitations
